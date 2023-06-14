@@ -39,7 +39,7 @@ function activate(context) {
 
 		const data = {
 			html: htmlCodeText,
-			access_token: "iloveworkingatdrcsomuch##########$$$$$$$$$$$$$$$$$$$$$$$$$$$$"
+			access_token: "Enter your access token here"
 		};
 
 		axios.post(apiUrl, data)
